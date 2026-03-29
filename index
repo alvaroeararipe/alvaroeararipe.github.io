@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+<meta name="theme-color" content="#f7f7f7"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="default"/>
+<meta name="apple-mobile-web-app-title" content="alvaro&araripe"/>
+<title>alvaro&araripe</title>
+<link rel="apple-touch-icon" sizes="180x180" href="data:image/jpeg;base64,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"/>
+<link rel="icon" type="image/jpeg" href="data:image/jpeg;base64,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"/>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+<script>(function(){try{const m={name:"alvaro&araripe",short_name:"A&A",start_url:".",display:"standalone",background_color:"#f7f7f7",theme_color:"#f7f7f7",icons:[{src:"data:image/jpeg;base64,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",sizes:"180x180",type:"image/jpeg"}]};const b=new Blob([JSON.stringify(m)],{type:"application/manifest+json"});const l=document.createElement("link");l.rel="manifest";l.href=URL.createObjectURL(b);document.head.appendChild(l);}catch(e){}})()</script>
+<style>
+:root{
+  --red:#f16e6d; --green:#74bfaa; --yellow:#e8b96a;
+  --bg:#f7f7f7; --surface:#fff; --surface2:#efefef;
+  --border:#e2ddd7; --text:#1a1714; --text2:#6b6460; --text3:#a09a95;
+  --r:16px; --rs:10px;
+  --sh:0 2px 14px rgba(0,0,0,.06);
+  --tr:all .26s cubic-bezier(.4,0,.2,1);
+}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+html,body{height:100%;font-family:'Poppins',sans-serif;background:var(--bg);color:var(--text);overflow:hidden;-webkit-font-smoothing:antialiased;}
+#app{display:flex;flex-direction:column;height:100dvh;height:100vh;overflow:hidden;position:relative;}
+.wm{position:fixed;bottom:80px;right:-30px;width:220px;opacity:.06;pointer-events:none;z-index:0;transform:rotate(-8deg);}
+
+/* HEADER */
+header{flex-shrink:0;display:flex;align-items:center;justify-content:space-between;padding:12px 18px 10px;background:var(–surface);border-bottom:1px solid var(–border);z-index:10;position:relative;}
+.logo-wrap{display:flex;align-items:center;gap:10px;}
+.logo-img{height:40px;width:auto;border-radius:6px;}
+.logo-name{font-size:16px;font-weight:700;color:var(–red);line-height:1;letter-spacing:-.2px;}
+.logo-sub{font-size:9.5px;color:var(–text3);margin-top:2px;letter-spacing:.3px;}
+.hbtn{width:34px;height:34px;border-radius:50%;background:var(–bg);border:1px solid var(–border);display:flex;align-items:center;justify-content:center;font-size:15px;cursor:pointer;margin-left:6px;}
+
+/* CONTENT */
+#content{flex:1;overflow-y:auto;overflow-x:hidden;padding-bottom:82px;position:relative;z-index:1;-webkit-overflow-scrolling:touch;}
+#content::-webkit-scrollbar{width:0;}
+.scr{display:none;padding:18px;}
+.scr.active{display:block;animation:fi .3s ease;}
+@keyframes fi{from{opacity:0;transform:translateY(6px);}to{opacity:1;transform:translateY(0);}}
+
+/* NAV */
+nav{position:fixed;bottom:0;left:0;right:0;z-index:20;background:var(–surface);border-top:1px solid var(–border);display:flex;padding-bottom:env(safe-area-inset-bottom,0);}
+.ni{flex:1;display:flex;flex-direction:column;align-items:center;padding:9px 4px 7px;cursor:pointer;touch-action:manipulation;-webkit-tap-highlight-color:transparent;border-top:2.5px solid transparent;transition:var(–tr);user-select:none;}
+.ni.active{border-top-color:var(–red);}
+.ni-icon{font-size:19px;filter:grayscale(1)opacity(.4);transition:var(–tr);}
+.ni.active .ni-icon{filter:none;}
+.ni-lbl{font-size:8.5px;font-weight:600;color:var(–text3);letter-spacing:.4px;text-transform:uppercase;transition:var(–tr);margin-top:3px;}
+.ni.active .ni-lbl{color:var(–red);}
+
+/* TYPOGRAPHY */
+.pg-title{font-size:26px;font-weight:700;color:var(–red);line-height:1.15;margin-bottom:3px;}
+.pg-title.black{color:var(–text);}
+.pg-sub{font-size:12.5px;color:var(–text2);margin-bottom:18px;}
+.card{background:var(–surface);border:1px solid var(–border);border-radius:var(–r);padding:16px;margin-bottom:13px;box-shadow:var(–sh);}
+.card-title{font-size:15px;font-weight:600;color:var(–text);margin-bottom:11px;}
+
+/* KPI */
+.kpi-grid{display:grid;grid-template-columns:1fr 1fr;gap:11px;margin-bottom:13px;}
+.kpi{background:var(–surface);border:1px solid var(–border);border-radius:var(–r);padding:14px 15px;box-shadow:var(–sh);border-bottom:3px solid var(–border);}
+.kpi.g{border-bottom-color:var(–green);}
+.kpi.r{border-bottom-color:var(–red);}
+.kpi.y{border-bottom-color:var(–yellow);}
+.kpi.b{border-bottom-color:var(–text);}
+.kl{font-size:9.5px;text-transform:uppercase;letter-spacing:1px;color:var(–text3);margin-bottom:5px;font-weight:600;}
+.kv{font-size:26px;font-weight:700;color:var(–text);line-height:1;}
+.kt{font-size:11px;font-weight:500;margin-top:4px;}
+.kt.up{color:var(–green);} .kt.dn{color:var(–red);}
+
+/* PILLS */
+.pills{display:flex;gap:8px;overflow-x:auto;margin-bottom:15px;padding-bottom:2px;}
+.pills::-webkit-scrollbar{height:0;}
+.pill{flex-shrink:0;display:flex;align-items:center;gap:7px;background:var(–surface);border:1px solid var(–border);border-radius:24px;padding:7px 13px;font-size:11.5px;color:var(–text2);white-space:nowrap;box-shadow:var(–sh);}
+
+/* TABS */
+.tabs{display:flex;gap:8px;overflow-x:auto;margin-bottom:15px;padding-bottom:2px;}
+.tabs::-webkit-scrollbar{height:0;}
+.tab{flex-shrink:0;padding:7px 15px;border-radius:20px;background:var(–surface);border:1px solid var(–border);font-size:11.5px;font-weight:500;color:var(–text2);cursor:pointer;white-space:nowrap;touch-action:manipulation;transition:var(–tr);}
+.tab.active{background:var(–red);border-color:var(–red);color:#fff;}
+
+/* PROPERTY CARD */
+.prop-card{background:var(–surface);border:1px solid var(–border);border-radius:var(–r);overflow:hidden;margin-bottom:13px;box-shadow:var(–sh);}
+.ph{padding:13px 15px;display:flex;align-items:center;gap:11px;border-bottom:1px solid var(–border);}
+.pav{width:44px;height:44px;border-radius:11px;background:var(–bg);display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0;}
+.pname{font-weight:600;font-size:14px;color:var(–text);}
+.paddr{font-size:11.5px;color:var(–text2);margin-top:2px;}
+.pbadge{font-size:10px;font-weight:600;padding:3px 10px;border-radius:20px;background:rgba(116,191,170,.15);color:#3d8a78;border:1px solid rgba(116,191,170,.3);}
+.pstats{display:grid;grid-template-columns:1fr 1fr 1fr;padding:11px 15px;}
+.ps{text-align:center;}
+.psv{font-size:19px;font-weight:700;color:var(–text);}
+.psl{font-size:9px;text-transform:uppercase;letter-spacing:.8px;color:var(–text3);margin-top:2px;font-weight:500;}
+.ptags{padding:0 15px 13px;display:flex;flex-wrap:wrap;gap:5px;}
+.tag{font-size:10px;padding:3px 9px;border-radius:20px;font-weight:500;}
+.tg{background:var(–bg);color:var(–text2);border:1px solid var(–border);}
+.tgreen{background:rgba(116,191,170,.12);color:#3d8a78;border:1px solid rgba(116,191,170,.25);}
+.tyellow{background:rgba(232,185,106,.12);color:#966b1a;border:1px solid rgba(232,185,106,.3);}
+.tred{background:rgba(241,110,109,.1);color:var(–red);border:1px solid rgba(241,110,109,.2);}
+
+/* COMP TABLE */
+.cr{display:flex;align-items:center;gap:10px;padding:10px 0;border-bottom:1px solid var(–border);}
+.cr:last-child{border:none;}
+.crk{width:25px;height:25px;border-radius:50%;background:var(–bg);color:var(–text2);font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;}
+.crk.mine{background:var(–text);color:#fff;}
+.crn{font-size:13px;font-weight:500;color:var(–text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.crm{font-size:11px;color:var(–text3);margin-top:1px;}
+.crp{font-size:16px;font-weight:700;color:var(–text);text-align:right;}
+.crd{font-size:10px;text-align:right;margin-top:1px;}
+.crd.pos{color:var(–green);} .crd.neg{color:var(–red);}
+
+/* METER */
+.meter-wrap{background:var(–surface2);border-radius:20px;height:7px;position:relative;margin:13px 0;}
+.meter-fill{height:100%;border-radius:20px;background:var(–red);transition:width .7s ease;}
+.meter-dot{position:absolute;top:50%;transform:translate(-50%,-50%);width:17px;height:17px;background:#fff;border:3px solid var(–red);border-radius:50%;transition:left .7s ease;z-index:2;}
+.meter-lbls{display:flex;justify-content:space-between;font-size:10px;color:var(–text3);}
+
+/* CALENDAR */
+.cal{display:grid;grid-template-columns:repeat(7,1fr);gap:3px;}
+.cal-lbl{font-size:9px;text-align:center;color:var(–text3);padding:3px 0;font-weight:600;text-transform:uppercase;}
+.cd{aspect-ratio:1;display:flex;align-items:center;justify-content:center;border-radius:7px;font-size:12px;cursor:pointer;color:var(–text2);}
+.cd.today{background:var(–text);color:#fff;font-weight:700;}
+.cd.booked{background:rgba(116,191,170,.2);color:#3d8a78;font-weight:500;}
+.cd.blocked{background:rgba(241,110,109,.12);color:var(–red);}
+.cd.empty{opacity:0;pointer-events:none;}
+
+/* TASK */
+.ti{display:flex;align-items:flex-start;gap:11px;padding:10px 0;border-bottom:1px solid var(–border);}
+.ti:last-child{border:none;}
+.tc{width:20px;height:20px;border-radius:50%;border:2px solid var(–border);display:flex;align-items:center;justify-content:center;cursor:pointer;flex-shrink:0;margin-top:1px;font-size:10px;color:transparent;touch-action:manipulation;}
+.tc.done{background:var(–green);border-color:var(–green);color:#fff;}
+.tt{font-size:13px;color:var(–text);flex:1;line-height:1.5;}
+.tt.done{text-decoration:line-through;opacity:.5;}
+.ttag{font-size:9px;text-transform:uppercase;letter-spacing:.8px;padding:2px 8px;border-radius:20px;font-weight:600;flex-shrink:0;}
+.ttag.cl{background:rgba(116,191,170,.12);color:#3d8a78;border:1px solid rgba(116,191,170,.25);}
+.ttag.ch{background:rgba(241,110,109,.1);color:var(–red);border:1px solid rgba(241,110,109,.2);}
+.ttag.mt{background:rgba(232,185,106,.12);color:#966b1a;border:1px solid rgba(232,185,106,.3);}
+
+/* FINANCE */
+.fin-row{display:grid;grid-template-columns:1fr 1fr 1fr;gap:9px;margin-bottom:13px;}
+.fc{background:var(–surface);border:1px solid var(–border);border-radius:var(–rs);padding:13px 9px;text-align:center;}
+.fl{font-size:9px;text-transform:uppercase;letter-spacing:1px;color:var(–text3);margin-bottom:5px;font-weight:600;}
+.fv{font-size:19px;font-weight:700;}
+.fv.inc{color:var(–green);} .fv.exp{color:var(–red);} .fv.pft{color:var(–text);}
+
+/* BAR */
+.bar-row{display:flex;align-items:center;gap:9px;margin-bottom:8px;}
+.bar-lbl{font-size:11px;color:var(–text3);width:26px;text-align:right;font-weight:500;flex-shrink:0;}
+.bar-bg{flex:1;background:var(–surface2);border-radius:4px;height:19px;overflow:hidden;}
+.bar-fill{height:100%;border-radius:4px;display:flex;align-items:center;padding-left:9px;}
+.bar-fill span{font-size:11px;font-weight:500;color:var(–text);white-space:nowrap;}
+
+/* AI BANNER */
+.ai-box{background:var(–text);color:#fff;border-radius:var(–r);padding:16px;margin-bottom:13px;}
+.ai-title{font-size:15.5px;font-weight:600;margin-bottom:5px;}
+.ai-sub{font-size:11.5px;opacity:.65;margin-bottom:12px;line-height:1.5;}
+.ai-row{display:flex;gap:8px;}
+.ai-input{flex:1;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.2);border-radius:10px;padding:9px 13px;color:#fff;font-size:12.5px;font-family:inherit;outline:none;}
+.ai-input::placeholder{color:rgba(255,255,255,.45);}
+.ai-btn{width:38px;height:38px;background:#fff;border:none;border-radius:10px;cursor:pointer;font-size:16px;display:flex;align-items:center;justify-content:center;flex-shrink:0;touch-action:manipulation;}
+.ai-msgs{margin-top:12px;max-height:200px;overflow-y:auto;}
+.ai-msgs::-webkit-scrollbar{width:0;}
+.ai-user{background:rgba(255,255,255,.12);border-radius:10px 10px 2px 10px;padding:8px 12px;font-size:12px;text-align:right;margin-left:32px;color:rgba(255,255,255,.9);margin-bottom:8px;}
+.ai-bot{background:rgba(255,255,255,.18);border-radius:2px 10px 10px 10px;padding:8px 12px;font-size:12px;margin-right:32px;line-height:1.55;color:#fff;margin-bottom:8px;}
+
+/* ADD BTN */
+.add-btn{display:flex;align-items:center;justify-content:center;gap:9px;width:100%;padding:14px;border-radius:var(–r);background:transparent;border:1.5px dashed var(–border);color:var(–text2);font-size:13.5px;font-weight:500;cursor:pointer;touch-action:manipulation;margin-top:11px;}
+
+/* MODAL */
+.overlay{position:fixed;inset:0;z-index:100;background:rgba(0,0,0,.5);backdrop-filter:blur(6px);display:none;align-items:flex-end;}
+.overlay.open{display:flex;}
+.modal{background:var(–surface);border-radius:18px 18px 0 0;padding:22px 18px 34px;width:100%;max-height:85vh;overflow-y:auto;animation:su .32s ease;}
+@keyframes su{from{transform:translateY(100%);}to{transform:translateY(0);}}
+.mhandle{width:36px;height:4px;background:var(–border);border-radius:2px;margin:0 auto 18px;}
+.mtitle{font-size:21px;font-weight:700;color:var(–text);margin-bottom:16px;}
+.ig{margin-bottom:13px;}
+.il{font-size:10.5px;text-transform:uppercase;letter-spacing:.8px;color:var(–text3);margin-bottom:5px;display:block;font-weight:600;}
+.inp{width:100%;background:var(–bg);border:1.5px solid var(–border);border-radius:var(–rs);padding:11px 13px;color:var(–text);font-size:13.5px;font-family:inherit;outline:none;transition:var(–tr);}
+.inp:focus{border-color:var(–red);}
+.btn-p{width:100%;padding:13px;border-radius:var(–rs);background:var(–red);color:#fff;font-size:13.5px;font-weight:600;border:none;cursor:pointer;font-family:inherit;touch-action:manipulation;}
+.btn-s{width:100%;padding:12px;border-radius:var(–rs);background:transparent;color:var(–text2);border:1.5px solid var(–border);cursor:pointer;font-size:13px;font-family:inherit;margin-top:7px;touch-action:manipulation;}
+
+/* REPORT */
+.rep-card{display:flex;align-items:center;gap:13px;background:var(–bg);border:1px solid var(–border);border-radius:14px;padding:13px 14px;margin-bottom:10px;cursor:pointer;touch-action:manipulation;}
+.rep-icon{width:44px;height:44px;border-radius:11px;background:var(–surface);border:1px solid var(–border);display:flex;align-items:center;justify-content:center;font-size:21px;flex-shrink:0;}
+
+/* INSIGHT HIGHLIGHT */
+.ins-red{color:var(–red);font-weight:600;}
+.ins-grn{color:var(–green);font-weight:600;}
+
+/* TOAST */
+.toast{position:fixed;bottom:92px;left:50%;transform:translateX(-50%)translateY(10px);background:var(–text);color:#fff;border-radius:24px;padding:10px 20px;font-size:13px;opacity:0;transition:all .3s ease;z-index:200;white-space:nowrap;pointer-events:none;}
+.toast.show{opacity:1;transform:translateX(-50%)translateY(0);}
+
+/* PROPERTY SELECTOR */
+.prop-sel{display:flex;gap:8px;margin-bottom:15px;}
+.prop-sel .tab{font-size:11px;}
+
+/* ANALYSIS BOX */
+.analysis-box{background:var(–bg);border:1px solid var(–border);border-radius:var(–rs);padding:14px;margin-bottom:10px;}
+.analysis-box h4{font-size:13px;font-weight:600;color:var(–text);margin-bottom:8px;}
+.analysis-box p{font-size:12.5px;color:var(–text2);line-height:1.65;}
+</style>
+
+</head>
+<body>
+<div id="app">
+<img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABcQERQRDhcUEhQaGBcbIjklIh8fIkYyNSk5UkhXVVFIUE5bZoNvW2F8Yk5QcptzfIeLkpSSWG2grJ+OqoOPko3/2wBDARgaGiIeIkMlJUONXlBejY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY3/wAARCABvAHgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAMEBQIBBv/EAC8QAAICAAQFAgUDBQAAAAAAAAABAgMEERIhBRMUMUEykSJCU2FxYrHhQ1GBofD/xAAZAQEAAwEBAAAAAAAAAAAAAAAAAQIDBAX/xAAfEQEBAAICAgMBAAAAAAAAAAAAAQIRAxIxURQiQUL/2gAMAwEAAhEDEQA/APqQAAAAAAAAAAAAAAAAAAAAAAAAAAAIMZzFh5Sqk4yjvt5QTJu6TgxOsxH1pDrMR9aRTvG/x8vbbBidZiPrSNTB8x4eMrZOUpb7+ETMtqZ8Vwm7U4ALMgAAAAAAAAAACriMVovjBelesmvtVNTl57JfcyW2223m33IUzy14c4mrk3yh47r8ERcvXOwcbPmq+GX4KZllNV6fFn3wlS4arnXxh47v8GrXdna4/K/SVMHDlYaVj9Vmy/B2Uyy62aZcn3q+DiqfMhn58nZ0S7m3JZoABIAAAAAABXxl3Lq0xfxS/wBIIt1NqmLu5tuSfwx2RAAQ57dp8Hva4NZxnFqS+xW6eXVcj5tWX8mngatFWt+qX7EvJj1HO+bTpIuO3ZwZ3jlQXLTJQSyjFJRIi3iIaoZrvEqHNyTWTXC7iSmzlz37PuXDPLWHs1R0vuv2L8WX81Xkx/UwAOhiAAAAABWxFVHMg7ptSslojv3eXZezPOJ0WYnAWVUta5ZbN5KSTTcc/Ga2M/D8Mvjcp8iumvqY2KtWalGKg4te77BFm2j0NP6/c96Gn9XuZa4Ti+muhKUZOEY1UrW1qrUtTTfhtZL/AAK+E2zemyiFdMsTGx1RszSgoNZe/gI6xuZZEdeJottnXXdCc6/XGMs3H8mZRw/Ew4mrnGCytnOV/MbdkWnlBx+23sRYLCcTotSeUa5anZLVGT1PPeO20c8nl/IWbpF08P7P3MGHCsYqbIxoVcnhnW5K/PmT1Rer7Z5Ml4hwm+U7Y4alTg4RjTJ3OLqyfxLLzmRZL5TLZ4a1kKatGvUtclFd3uySNMYSUknn+TMjw65WytS+OWNVjev+mn/2xn8PwOLvwcLMOlRKVNkXdzW3a36Vl4yI6Y+jtX0wM7g+EuwsLubF1qck416k0slu9tlmaJZAAAAAAAAAAAAAAAAAO3YAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/9k=" class="wm" alt=""/>
+
+<!-- HEADER -->
+
+<header>
+  <div class="logo-wrap">
+    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABSAFgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQFAgMGAQf/xAA1EAABAwMCAwUGBAcAAAAAAAABAAIDBBESBSExQWETFCJRkQYVFiMycUKhsdEzUoGSosHh/8QAGQEBAQEBAQEAAAAAAAAAAAAAAAEEAgUD/8QAIBEBAAICAgMAAwAAAAAAAAAAAAECAxESMQQhQSJCcf/aAAwDAQACEQMRAD8A+koiICIiAiIgIiICIiAiIgIiICItNXUNpqd0ruI2aPMokzr2p9Q1ato6ySHGItBu0lp3B4c1H+IKz+WH+0/usazKroO2ccpYHWcfNpO3oVWLNe1ont63i0w5sUW4r3T9WraysjhxiDSbuIadgOPNXy53S4zBRGfhJMbNPk0fuf0V9TyiaIP58COq7x5Nzxntk8qtYt+EemxERfZlEREBERAXP6tVd4qMGH5cew6nmVZ6pVd2psWH5kmzeg5lc8pLPmv+sN1HI1k+Mn8OQFjx0Kidzl94dz/Hnhf/AH6bqz0im7eqzcPBFuep5K47nH7w75+PDD/vpsuLU5Nfg55xVtv71/VdKW5BkYsyMBjR0C20c3ZS2J8Ltj06rKvhwlzA8L/1UVedabUyb+tcavReIo1FN2kWLj4mfmFJXp0tFq8oYrVms6kREXSCIiDnpNeoKl8Tm0E0pfgWmSOxdG4PLXN33v2Z224ryTW9DZGZGUskzA1zy6OEEBoDbu48AXgfe/kraDSdOp5DJBQ08by4PyawA3F7H/I+pWL9G0t8EUD9PpjFEXGNhjFm3Nzb7ndE1CF7+06ka8Np6hjGvkyLYtg1jg17+P0gkC/HosviOkZUVzJrRx0l7Oyu6XHZxa224B2uL7gjYqfLptBMIxLRwPEbzIzJgOLibk/1O/3Wt2j6Y6aSZ1DAXyhweS36g76gehvv58UVCk9o9PwcJ4KppYHl7Xw7sLCAQd+N3NA87rVLr1CIn9lRyiZgfkyWLEMxcGnIi9tyOF7qzj0jTYonRR0MAje1zHNxuHB1sgfvYeiRaRpsUZjjooWsIIIDeIJBP5gFSaxPcLuYV59o9KgLj2U7HZFsfyrdrZ5Ycd+RHOyuKWojq6WKpgJMUzA9pIINj0PBQafQNNggkjNMyUyuLpHvb4nHIu4jyJ5KxjYyKNscbQ1jAGtaBYADgEiIjpN7ZIiKgiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiD//Z" class="logo-img" alt="logo"/>
+    <div>
+      <div class="logo-name">alvaro&amp;araripe</div>
+      <div class="logo-sub">Gestão · Rio de Janeiro</div>
+    </div>
+  </div>
+  <div style="display:flex;">
+    <div class="hbtn" onclick="goTo('notif')">🔔</div>
+    <div class="hbtn" onclick="toast('Perfil em breve')">👤</div>
+  </div>
+</header>
+
+<!-- CONTENT -->
+
+<div id="content">
+
+<!-- ══ DASHBOARD ══ -->
+
+<div class="scr active" id="scr-dashboard">
+  <p class="pg-title">Visão Geral</p>
+  <p class="pg-sub">Portfólio · 2 imóveis · Abril 2025</p>
+
+  <div class="pills">
+    <div class="pill"><span style="font-size:16px">🏖️</span>Semana Santa — Alta demanda</div>
+    <div class="pill"><span style="font-size:16px">🎵</span>Rock in Rio — Set/25</div>
+    <div class="pill"><span style="font-size:16px">📈</span>Diárias +18% vs março</div>
+    <div class="pill"><span style="font-size:16px">🌊</span>Verão europeu — turistas</div>
+  </div>
+
+  <div class="kpi-grid">
+    <div class="kpi g"><div class="kl">Receita Total</div><div class="kv">R&#36;15k</div><div class="kt up">↑ 2 imóveis</div></div>
+    <div class="kpi b"><div class="kl">Ocupação Média</div><div class="kv">83%</div><div class="kt up">↑ acima da média</div></div>
+    <div class="kpi y"><div class="kl">Diária Média</div><div class="kv">R&#36;355</div><div class="kt up">2 imóveis</div></div>
+    <div class="kpi r"><div class="kl">Avaliação Média</div><div class="kv">5.0</div><div class="kt up">⭐ 32 reviews</div></div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">🏠 AllStar Azul — Laranjeiras</div>
+    <div style="display:flex;flex-direction:column;gap:0;">
+      <div style="display:flex;justify-content:space-between;align-items:center;font-size:13px;padding:5px 0;border-bottom:1px solid var(--border);">
+        <span>🟢 15–18 Abr · João Silva</span><span style="font-weight:600;">R&#36;1.480</span>
+      </div>
+      <div style="display:flex;justify-content:space-between;align-items:center;font-size:13px;padding:5px 0;border-bottom:1px solid var(--border);">
+        <span>🟢 22–27 Abr · Maria Santos</span><span style="font-weight:600;">R&#36;2.220</span>
+      </div>
+      <div style="display:flex;justify-content:space-between;align-items:center;font-size:13px;padding:5px 0;">
+        <span>⚪ 01–04 Mai · Disponível</span><span style="color:var(--text3);font-size:12px;">3 noites livres</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">🏢 Studio Copacabana — Em breve</div>
+    <div style="font-size:13px;color:var(--text2);line-height:1.7;">
+      • Rua Francisco Sá, Bairro Peixoto<br>
+      • 3 hóspedes · Cama queen + sofá-cama<br>
+      • Decoração primorosa · Ar-condicionado<br>
+      <span class="tag tyellow" style="margin-top:8px;display:inline-block;">Cadastro pendente</span>
+    </div>
+  </div>
+
+  <div class="ai-box">
+    <div class="ai-title">✦ Consultor IA</div>
+    <div class="ai-sub">Pergunte sobre preços, concorrência, estratégia ou operação.</div>
+    <div class="ai-row">
+      <input class="ai-input" id="ai-in" placeholder="ex: Qual o melhor preço pro feriado?" onkeydown="if(event.key==='Enter')sendAI()"/>
+      <button class="ai-btn" onclick="sendAI()">→</button>
+    </div>
+    <div class="ai-msgs" id="ai-msgs"></div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">💡 Insights de Mercado</div>
+    <div style="font-size:13px;color:var(--text2);line-height:1.8;">
+      • <span class="ins-red">Laranjeiras:</span> concorrência baixa — potencial de subir diária para <span class="ins-grn">R&#36;400–420</span> em alta temporada.<br>
+      • <span class="ins-red">Copacabana:</span> mercado saturado — diferencial da decoração justifica topo de faixa <span class="ins-grn">R&#36;340–370</span>.<br>
+      • Carnaval 2026: comece a bloquear datas e definir preços agora — demanda antecipada.<br>
+      • <span class="ins-red">Rock in Rio</span> (Set/25): projeção <span class="ins-grn">+80%</span> na diária — acompanhar concorrentes em agosto.
+    </div>
+  </div>
+</div>
+
+<!-- ══ IMÓVEIS ══ -->
+
+<div class="scr" id="scr-properties">
+  <p class="pg-title black">Meus Imóveis</p>
+  <p class="pg-sub" id="prop-count">2 de 12 imóveis cadastrados</p>
+
+  <div id="prop-list">
+    <!-- Imóvel A -->
+    <div class="prop-card">
+      <div class="ph">
+        <div class="pav">🌿</div>
+        <div style="flex:1;min-width:0;">
+          <div class="pname">AllStar Azul</div>
+          <div class="paddr">Laranjeiras · Pinheiro Machado esq. Laranjeiras</div>
+        </div>
+        <span class="pbadge">Ativo</span>
+      </div>
+      <div class="pstats">
+        <div class="ps"><div class="psv">R&#36;370</div><div class="psl">Diária</div></div>
+        <div class="ps"><div class="psv">85%</div><div class="psl">Ocupação</div></div>
+        <div class="ps"><div class="psv">5.0⭐</div><div class="psl">Nota</div></div>
+      </div>
+      <div class="ptags">
+        <span class="tag tg">2 quartos</span>
+        <span class="tag tg">4 hóspedes</span>
+        <span class="tag tgreen">Airbnb</span>
+        <span class="tag tg">Ar-condicionado</span>
+        <span class="tag tg">Equip. novos</span>
+        <a href="https://airbnb.com/h/allstarazul" target="_blank" style="text-decoration:none;"><span class="tag tgreen">Ver anúncio ↗</span></a>
+      </div>
+    </div>
+    <!-- Imóvel B -->
+    <div class="prop-card">
+      <div class="ph">
+        <div class="pav">🌊</div>
+        <div style="flex:1;min-width:0;">
+          <div class="pname">Studio Copacabana</div>
+          <div class="paddr">Copacabana · Rua Francisco Sá</div>
+        </div>
+        <span class="pbadge" style="background:rgba(232,185,106,.15);color:#966b1a;border-color:rgba(232,185,106,.35);">Pendente</span>
+      </div>
+      <div class="pstats">
+        <div class="ps"><div class="psv">R&#36;340</div><div class="psl">Diária</div></div>
+        <div class="ps"><div class="psv">—</div><div class="psl">Ocupação</div></div>
+        <div class="ps"><div class="psv">—</div><div class="psl">Nota</div></div>
+      </div>
+      <div class="ptags">
+        <span class="tag tg">Studio</span>
+        <span class="tag tg">3 hóspedes</span>
+        <span class="tag tgreen">Cama queen</span>
+        <span class="tag tg">Ar-condicionado</span>
+        <span class="tag tyellow">Decoração primorosa</span>
+      </div>
+    </div>
+  </div>
+  <button class="add-btn" onclick="openModal()">＋ Adicionar Imóvel</button>
+</div>
+
+<!-- ══ CONCORRÊNCIA ══ -->
+
+<div class="scr" id="scr-comp">
+  <p class="pg-title black">Concorrência</p>
+  <p class="pg-sub">Análise de mercado por bairro</p>
+
+  <div class="prop-sel">
+    <button class="tab active" onclick="switchProp(this,'A')">AllStar Azul</button>
+    <button class="tab" onclick="switchProp(this,'B')">Studio Copa</button>
+  </div>
+
+  <!-- IMÓVEL A -->
+
+  <div id="comp-A">
+    <div class="kpi-grid">
+      <div class="kpi y"><div class="kl">Mediana Laranjeiras</div><div class="kv">R&#36;340</div><div class="kt up">2 quartos</div></div>
+      <div class="kpi b"><div class="kl">Anúncios Ativos</div><div class="kv">~22</div><div class="kt up">Baixa concorr.</div></div>
+    </div>
+    <div class="card">
+      <div class="card-title">🏆 Ranking — Laranjeiras 2q</div>
+      <div class="cr"><div class="crk">1</div><div style="flex:1;min-width:0;"><div class="crn">Ap Design Largo do Machado</div><div class="crm">2q · 4.95⭐ · 61 avaliações</div></div><div><div class="crp">R&#36;490</div><div class="crd pos">+32% vs você</div></div></div>
+      <div class="cr"><div class="crk">2</div><div style="flex:1;min-width:0;"><div class="crn">Casa Charmosa Laranjeiras</div><div class="crm">2q · 4.90⭐ · 38 avaliações</div></div><div><div class="crp">R&#36;420</div><div class="crd pos">+14% vs você</div></div></div>
+      <div class="cr"><div class="crk mine">✦</div><div style="flex:1;min-width:0;"><div class="crn">AllStar Azul (você)</div><div class="crm">2q · 5.0⭐ · 32 avaliações</div></div><div><div class="crp" style="color:var(--red)">R&#36;370</div><div class="crd" style="color:var(--text2)">Sua posição</div></div></div>
+      <div class="cr"><div class="crk">4</div><div style="flex:1;min-width:0;"><div class="crn">Quarto Aconchegante Cat.</div><div class="crm">2q · 4.80⭐ · 27 avaliações</div></div><div><div class="crp">R&#36;310</div><div class="crd neg">-16% vs você</div></div></div>
+      <div class="cr"><div class="crk">5</div><div style="flex:1;min-width:0;"><div class="crn">Ap Compacto Laranjeiras</div><div class="crm">1q · 4.70⭐ · 14 avaliações</div></div><div><div class="crp">R&#36;230</div><div class="crd neg">-38% vs você</div></div></div>
+      <div style="margin-top:11px;"><span class="tag tgreen">Boa posição</span> <span class="tag tyellow">Pot. +13% p/ R&#36;420</span> <span class="tag tg">Baixa saturação ✅</span></div>
+    </div>
+    <div class="card">
+      <div class="card-title">📊 Análise Estratégica</div>
+      <div class="analysis-box">
+        <h4>💪 Vantagens competitivas</h4>
+        <p>Nota 5.0 perfeita com 32 reviews é o maior diferencial — apenas 1 concorrente na região tem nota acima de 4.9. Localização na esquina das duas principais ruas do bairro facilita a descoberta orgânica no Airbnb.</p>
+      </div>
+      <div class="analysis-box">
+        <h4>🎯 Oportunidade de preço</h4>
+        <p>Você está 24% abaixo da mediana e tem a melhor nota do bairro. Há espaço para subir para <strong>R&#36;400–420</strong> sem perder competitividade. Recomenda-se ajuste gradual de R&#36;10/semana.</p>
+      </div>
+      <div class="analysis-box">
+        <h4>📅 Precificação por evento</h4>
+        <p>Semana Santa: R&#36;520 · Réveillon: R&#36;900 · Carnaval 2026: R&#36;850 · Rock in Rio: R&#36;680</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- IMÓVEL B -->
+
+  <div id="comp-B" style="display:none;">
+    <div class="kpi-grid">
+      <div class="kpi y"><div class="kl">Mediana Copacabana</div><div class="kv">R&#36;300</div><div class="kt up">Studio / 1q</div></div>
+      <div class="kpi b"><div class="kl">Anúncios Ativos</div><div class="kv">~280</div><div class="kt dn">Alta concorr.</div></div>
+    </div>
+    <div class="card">
+      <div class="card-title">🏆 Ranking — Copacabana Studio</div>
+      <div class="cr"><div class="crk">1</div><div style="flex:1;min-width:0;"><div class="crn">Studio Premium B. Peixoto</div><div class="crm">Studio · 4.98⭐ · 112 avaliações</div></div><div><div class="crp">R&#36;480</div><div class="crd pos">+41% vs você</div></div></div>
+      <div class="cr"><div class="crk">2</div><div style="flex:1;min-width:0;"><div class="crn">Flat Moderno Copa Sul</div><div class="crm">Studio · 4.92⭐ · 74 avaliações</div></div><div><div class="crp">R&#36;390</div><div class="crd pos">+15% vs você</div></div></div>
+      <div class="cr"><div class="crk mine">✦</div><div style="flex:1;min-width:0;"><div class="crn">Studio Copa (você)</div><div class="crm">Studio · — · novo</div></div><div><div class="crp" style="color:var(--red)">R&#36;340</div><div class="crd" style="color:var(--text2)">Sua posição</div></div></div>
+      <div class="cr"><div class="crk">4</div><div style="flex:1;min-width:0;"><div class="crn">Quarto Copa Vista</div><div class="crm">Studio · 4.75⭐ · 31 avaliações</div></div><div><div class="crp">R&#36;280</div><div class="crd neg">-18% vs você</div></div></div>
+      <div class="cr"><div class="crk">5</div><div style="flex:1;min-width:0;"><div class="crn">Ap Básico Copacabana</div><div class="crm">Studio · 4.60⭐ · 18 avaliações</div></div><div><div class="crp">R&#36;190</div><div class="crd neg">-44% vs você</div></div></div>
+      <div style="margin-top:11px;"><span class="tag tyellow">Mercado saturado</span> <span class="tag tgreen">Fotos profissionais essenciais</span></div>
+    </div>
+    <div class="card">
+      <div class="card-title">📊 Análise Estratégica</div>
+      <div class="analysis-box">
+        <h4>💪 Vantagens competitivas</h4>
+        <p>Bairro Peixoto é a área mais valorizada e tranquila de Copacabana — comunique isso no título do anúncio. Decoração diferenciada permite cobrar prêmio sobre a mediana. Sofá-cama adiciona flexibilidade para grupos de 3.</p>
+      </div>
+      <div class="analysis-box">
+        <h4>⚠️ Atenção — entrada no mercado</h4>
+        <p>Como imóvel novo (sem reviews), comece com R&#36;290–310 por 30 dias para acumular avaliações 5 estrelas rapidamente. Após 10 reviews positivas, suba para R&#36;340–370 com confiança.</p>
+      </div>
+      <div class="analysis-box">
+        <h4>📅 Precificação por evento</h4>
+        <p>Semana Santa: R&#36;480 · Réveillon: R&#36;850 · Carnaval 2026: R&#36;800 · Rock in Rio: R&#36;620</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ══ PRECIFICAÇÃO ══ -->
+
+<div class="scr" id="scr-pricing">
+  <p class="pg-title black">Precificação</p>
+  <p class="pg-sub">Sugestão inteligente por período</p>
+
+  <div class="prop-sel">
+    <button class="tab active" onclick="switchPrice(this,'A')">AllStar Azul</button>
+    <button class="tab" onclick="switchPrice(this,'B')">Studio Copa</button>
+  </div>
+
+  <div class="card">
+    <div class="card-title" id="price-prop-title">💡 AllStar Azul · Laranjeiras</div>
+    <div class="tabs" id="price-tabs">
+      <button class="tab active" onclick="setPrice(this,370,52)">Normal</button>
+      <button class="tab" onclick="setPrice(this,520,65)">Feriado</button>
+      <button class="tab" onclick="setPrice(this,900,92)">Réveillon</button>
+      <button class="tab" onclick="setPrice(this,850,88)">Carnaval</button>
+      <button class="tab" onclick="setPrice(this,680,76)">Rock in Rio</button>
+      <button class="tab" onclick="setPrice(this,280,38)">Baixa</button>
+    </div>
+    <div id="price-big" style="font-size:50px;font-weight:700;color:var(--text);text-align:center;line-height:1;margin:13px 0 3px;">R&#36; 370</div>
+    <div style="text-align:center;font-size:11.5px;color:var(--text3);margin-bottom:14px;">Diária sugerida · baseada na análise de mercado</div>
+    <div class="meter-wrap">
+      <div class="meter-fill" id="price-meter" style="width:52%"></div>
+      <div class="meter-dot" id="price-dot" style="left:52%"></div>
+    </div>
+    <div class="meter-lbls"><span id="price-min">R&#36;230 mín</span><span>Mediana R&#36;340</span><span id="price-max">R&#36;490 máx</span></div>
+  </div>
+
+  <div class="card" id="price-factors-A">
+    <div class="card-title">🔑 Fatores — Laranjeiras</div>
+    <div style="display:flex;flex-direction:column;gap:0;">
+      <div style="display:flex;align-items:center;gap:11px;padding:8px 0;border-bottom:1px solid var(--border);">
+        <span style="font-size:18px;">📍</span><div style="flex:1;"><div style="font-size:13px;font-weight:500;">Localização premium</div><div style="font-size:11px;color:var(--text3);">Esquina Pinheiro Machado · Laranjeiras</div></div><div style="font-size:13px;font-weight:600;color:var(--green);">+R&#36;40</div>
+      </div>
+      <div style="display:flex;align-items:center;gap:11px;padding:8px 0;border-bottom:1px solid var(--border);">
+        <span style="font-size:18px;">⭐</span><div style="flex:1;"><div style="font-size:13px;font-weight:500;">Nota 5.0 perfeita</div><div style="font-size:11px;color:var(--text3);">32 avaliações · melhor do bairro</div></div><div style="font-size:13px;font-weight:600;color:var(--green);">+R&#36;50</div>
+      </div>
+      <div style="display:flex;align-items:center;gap:11px;padding:8px 0;border-bottom:1px solid var(--border);">
+        <span style="font-size:18px;">❄️</span><div style="flex:1;"><div style="font-size:13px;font-weight:500;">Ambientes refrigerados</div><div style="font-size:11px;color:var(--text3);">Diferencial valorizado no verão carioca</div></div><div style="font-size:13px;font-weight:600;color:var(--green);">+R&#36;30</div>
+      </div>
+      <div style="display:flex;align-items:center;gap:11px;padding:8px 0;">
+        <span style="font-size:18px;">📸</span><div style="flex:1;"><div style="font-size:13px;font-weight:500;">Fotos profissionais</div><div style="font-size:11px;color:#966b1a;">Recomendado — impacto alto</div></div><div style="font-size:13px;font-weight:600;color:#966b1a;">+R&#36;40 pot.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card" id="price-factors-B" style="display:none;">
+    <div class="card-title">🔑 Fatores — Copacabana</div>
+    <div style="display:flex;flex-direction:column;gap:0;">
+      <div style="display:flex;align-items:center;gap:11px;padding:8px 0;border-bottom:1px solid var(--border);">
+        <span style="font-size:18px;">🎨</span><div style="flex:1;"><div style="font-size:13px;font-weight:500;">Decoração primorosa</div><div style="font-size:11px;color:var(--text3);">Principal diferencial vs concorrentes</div></div><div style="font-size:13px;font-weight:600;color:var(--green);">+R&#36;60</div>
+      </div>
+      <div style="display:flex;align-items:center;gap:11px;padding:8px 0;border-bottom:1px solid var(--border);">
+        <span style="font-size:18px;">📍</span><div style="flex:1;"><div style="font-size:13px;font-weight:500;">Bairro Peixoto</div><div style="font-size:11px;color:var(--text3);">Área mais tranquila e valorizada de Copa</div></div><div style="font-size:13px;font-weight:600;color:var(--green);">+R&#36;35</div>
+      </div>
+      <div style="display:flex;align-items:center;gap:11px;padding:8px 0;border-bottom:1px solid var(--border);">
+        <span style="font-size:18px;">🛋️</span><div style="flex:1;"><div style="font-size:13px;font-weight:500;">Sofá-cama + cama queen</div><div style="font-size:11px;color:var(--text3);">Aceita até 3 hóspedes</div></div><div style="font-size:13px;font-weight:600;color:var(--green);">+R&#36;20</div>
+      </div>
+      <div style="display:flex;align-items:center;gap:11px;padding:8px 0;">
+        <span style="font-size:18px;">⚠️</span><div style="flex:1;"><div style="font-size:13px;font-weight:500;">Imóvel novo — sem reviews</div><div style="font-size:11px;color:var(--red);">Inicie com preço menor para acumular avaliações</div></div><div style="font-size:13px;font-weight:600;color:var(--red);">-R&#36;50</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ══ OPERAÇÃO ══ -->
+
+<div class="scr" id="scr-ops">
+  <p class="pg-title black">Operação</p>
+  <p class="pg-sub">Tarefas · Calendário · Financeiro</p>
+  <div class="tabs">
+    <button class="tab active" onclick="switchOps('tasks',this)">Tarefas</button>
+    <button class="tab" onclick="switchOps('calendar',this)">Calendário</button>
+    <button class="tab" onclick="switchOps('finance',this)">Financeiro</button>
+    <button class="tab" onclick="switchOps('reports',this)">Relatórios</button>
+  </div>
+
+  <div id="ops-tasks">
+    <div class="card">
+      <div class="card-title">📋 Tarefas — Abril 2025</div>
+      <div id="task-list">
+        <div class="ti"><div class="tc done" onclick="toggleTask(this)">✓</div><div class="tt done">Limpeza pós check-out — 12 Abr</div><div class="ttag cl">Limpeza</div></div>
+        <div class="ti"><div class="tc" onclick="toggleTask(this)"></div><div class="tt">Preparar kit boas-vindas — Semana Santa</div><div class="ttag ch">Check-in</div></div>
+        <div class="ti"><div class="tc" onclick="toggleTask(this)"></div><div class="tt">Revisão ar-condicionado — AllStar Azul</div><div class="ttag mt">Manutenção</div></div>
+        <div class="ti"><div class="tc" onclick="toggleTask(this)"></div><div class="tt">Fotografar Studio Copa — fotos profissionais</div><div class="ttag mt">Marketing</div></div>
+        <div class="ti"><div class="tc" onclick="toggleTask(this)"></div><div class="tt">Publicar anúncio Studio no Airbnb</div><div class="ttag ch">Lançamento</div></div>
+        <div class="ti"><div class="tc" onclick="toggleTask(this)"></div><div class="tt">Definir preços Réveillon ambos imóveis</div><div class="ttag mt">Estratégia</div></div>
+      </div>
+      <button class="add-btn" onclick="addTask()">＋ Nova Tarefa</button>
+    </div>
+  </div>
+
+  <div id="ops-calendar" style="display:none;">
+    <div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:15px;">
+        <div class="card-title" style="margin:0;">📅 Abril 2025 · AllStar Azul</div>
+        <div style="display:flex;gap:6px;">
+          <div class="hbtn" style="width:28px;height:28px;font-size:13px;" onclick="toast('Mês anterior')">‹</div>
+          <div class="hbtn" style="width:28px;height:28px;font-size:13px;" onclick="toast('Próximo mês')">›</div>
+        </div>
+      </div>
+      <div class="cal">
+        <div class="cal-lbl">Dom</div><div class="cal-lbl">Seg</div><div class="cal-lbl">Ter</div><div class="cal-lbl">Qua</div><div class="cal-lbl">Qui</div><div class="cal-lbl">Sex</div><div class="cal-lbl">Sáb</div>
+        <div class="cd empty"></div><div class="cd">1</div><div class="cd">2</div><div class="cd">3</div><div class="cd">4</div><div class="cd">5</div><div class="cd booked">6</div>
+        <div class="cd booked">7</div><div class="cd booked">8</div><div class="cd booked">9</div><div class="cd booked">10</div><div class="cd booked">11</div><div class="cd booked">12</div><div class="cd">13</div>
+        <div class="cd">14</div><div class="cd booked">15</div><div class="cd booked">16</div><div class="cd booked">17</div><div class="cd booked">18</div><div class="cd blocked">19</div><div class="cd blocked">20</div>
+        <div class="cd today">21</div><div class="cd">22</div><div class="cd booked">23</div><div class="cd booked">24</div><div class="cd booked">25</div><div class="cd booked">26</div><div class="cd booked">27</div>
+        <div class="cd">28</div><div class="cd">29</div><div class="cd">30</div>
+      </div>
+      <div style="display:flex;gap:14px;margin-top:11px;flex-wrap:wrap;">
+        <div style="display:flex;align-items:center;gap:6px;font-size:11px;color:var(--text2);"><div style="width:10px;height:10px;border-radius:50%;background:rgba(116,191,170,.5)"></div>Reservado</div>
+        <div style="display:flex;align-items:center;gap:6px;font-size:11px;color:var(--text2);"><div style="width:10px;height:10px;border-radius:50%;background:rgba(241,110,109,.4)"></div>Bloqueado</div>
+        <div style="display:flex;align-items:center;gap:6px;font-size:11px;color:var(--text2);"><div style="width:10px;height:10px;border-radius:50%;background:var(--text)"></div>Hoje</div>
+      </div>
+    </div>
+    <div class="kpi-grid">
+      <div class="kpi g"><div class="kl">Dias Reservados</div><div class="kv">26</div><div class="kt up">de 30 dias</div></div>
+      <div class="kpi b"><div class="kl">Taxa Mensal</div><div class="kv">85%</div><div class="kt up">↑ acima da meta</div></div>
+    </div>
+  </div>
+
+  <div id="ops-finance" style="display:none;">
+    <div class="fin-row">
+      <div class="fc"><div class="fl">Receita</div><div class="fv inc">R&#36;8k</div></div>
+      <div class="fc"><div class="fl">Custos</div><div class="fv exp">R&#36;2.1k</div></div>
+      <div class="fc"><div class="fl">Lucro</div><div class="fv pft">R&#36;5.9k</div></div>
+    </div>
+    <div class="card">
+      <div class="card-title">📈 AllStar Azul — Receita 2025</div>
+      <div>
+        <div class="bar-row"><span class="bar-lbl">Jan</span><div class="bar-bg"><div class="bar-fill" style="width:55%;background:rgba(116,191,170,.35);"><span>R&#36;4.8k</span></div></div></div>
+        <div class="bar-row"><span class="bar-lbl">Fev</span><div class="bar-bg"><div class="bar-fill" style="width:82%;background:rgba(116,191,170,.5);"><span>R&#36;7.2k — Carnaval</span></div></div></div>
+        <div class="bar-row"><span class="bar-lbl">Mar</span><div class="bar-bg"><div class="bar-fill" style="width:52%;background:rgba(232,185,106,.35);"><span>R&#36;4.6k</span></div></div></div>
+        <div class="bar-row"><span class="bar-lbl">Abr</span><div class="bar-bg"><div class="bar-fill" style="width:91%;background:rgba(116,191,170,.6);"><span>R&#36;8k ← atual</span></div></div></div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-title">💸 Custos de Abril</div>
+      <div class="cr" style="padding:9px 0;"><div style="flex:1;font-size:13px;">Taxa Airbnb (3%)</div><div style="font-size:14px;font-weight:700;color:var(--red);">−R&#36;240</div></div>
+      <div class="cr" style="padding:9px 0;"><div style="flex:1;font-size:13px;">Limpeza (5 entradas)</div><div style="font-size:14px;font-weight:700;color:var(--red);">−R&#36;600</div></div>
+      <div class="cr" style="padding:9px 0;"><div style="flex:1;font-size:13px;">IPTU / Condomínio</div><div style="font-size:14px;font-weight:700;color:var(--red);">−R&#36;850</div></div>
+      <div class="cr" style="padding:9px 0;border:none;"><div style="flex:1;font-size:13px;">Manutenções diversas</div><div style="font-size:14px;font-weight:700;color:var(--red);">−R&#36;400</div></div>
+    </div>
+  </div>
+
+  <div id="ops-reports" style="display:none;">
+    <div class="card">
+      <div class="card-title">📄 Relatórios</div>
+      <div style="font-size:12px;color:var(--text3);margin-bottom:13px;line-height:1.5;">Relatórios para gestão, fiscal e performance dos dois imóveis.</div>
+      <div class="rep-card" onclick="toast('Gerando relatório…')"><div class="rep-icon">📊</div><div style="flex:1;"><div style="font-weight:600;font-size:13.5px;">Relatório Mensal — Abril 2025</div><div style="font-size:11.5px;color:var(--text3);margin-top:2px;">Receitas, custos, ocupação e KPIs</div></div><span style="color:var(--text3);font-size:18px;">›</span></div>
+      <div class="rep-card" onclick="toast('Gerando análise…')"><div class="rep-icon">🏆</div><div style="flex:1;"><div style="font-weight:600;font-size:13.5px;">Análise de Concorrência</div><div style="font-size:11.5px;color:var(--text3);margin-top:2px;">Laranjeiras e Copacabana</div></div><span style="color:var(--text3);font-size:18px;">›</span></div>
+      <div class="rep-card" onclick="toast('Gerando relatório fiscal…')"><div class="rep-icon">📑</div><div style="flex:1;"><div style="font-weight:600;font-size:13.5px;">Relatório Fiscal 2025</div><div style="font-size:11.5px;color:var(--text3);margin-top:2px;">Para contador e declaração IR</div></div><span style="color:var(--text3);font-size:18px;">›</span></div>
+      <div class="rep-card" onclick="toast('Gerando análise…')"><div class="rep-icon">📸</div><div style="flex:1;"><div style="font-weight:600;font-size:13.5px;">Performance de Anúncios</div><div style="font-size:11.5px;color:var(--text3);margin-top:2px;">Conversão, views e reviews</div></div><span style="color:var(--text3);font-size:18px;">›</span></div>
+    </div>
+  </div>
+</div>
+
+<!-- ══ NOTIFICAÇÕES ══ -->
+
+<div class="scr" id="scr-notif">
+  <p class="pg-title black">Notificações</p>
+  <p class="pg-sub">Alertas e atualizações</p>
+  <div class="card">
+    <div class="card-title">Recentes</div>
+    <div class="ti" style="border-bottom:1px solid var(--border);"><div style="width:10px;height:10px;border-radius:50%;background:var(--green);flex-shrink:0;margin-top:5px;"></div><div><div style="font-size:13px;font-weight:500;">Nova reserva — João Silva</div><div style="font-size:11px;color:var(--text3);margin-top:2px;">15–18 Abr · R&#36;1.480 · AllStar Azul · há 2h</div></div></div>
+    <div class="ti" style="border-bottom:1px solid var(--border);"><div style="width:10px;height:10px;border-radius:50%;background:var(--yellow);flex-shrink:0;margin-top:5px;"></div><div><div style="font-size:13px;font-weight:500;">Oportunidade: subir preço Tiradentes</div><div style="font-size:11px;color:var(--text3);margin-top:2px;">Concorrentes subiram +28% · há 5h</div></div></div>
+    <div class="ti" style="border-bottom:1px solid var(--border);"><div style="width:10px;height:10px;border-radius:50%;background:var(--red);flex-shrink:0;margin-top:5px;"></div><div><div style="font-size:13px;font-weight:500;">Tarefa: fotografar Studio Copacabana</div><div style="font-size:11px;color:var(--text3);margin-top:2px;">Lançamento do anúncio pendente · há 1 dia</div></div></div>
+    <div class="ti"><div style="width:10px;height:10px;border-radius:50%;background:var(--text);flex-shrink:0;margin-top:5px;"></div><div><div style="font-size:13px;font-weight:500;">Nova avaliação — ⭐ 5.0</div><div style="font-size:11px;color:var(--text3);margin-top:2px;">"Localização perfeita, tudo impecável!" · há 3 dias</div></div></div>
+  </div>
+  <div class="card">
+    <div class="card-title">🔔 Configurar Alertas</div>
+    <div style="display:flex;flex-direction:column;gap:13px;">
+      <div style="display:flex;justify-content:space-between;align-items:center;"><span style="font-size:13px;font-weight:500;">Novas reservas</span><div onclick="toast('Ativo')" style="width:44px;height:26px;background:var(--green);border-radius:20px;position:relative;cursor:pointer;"><div style="position:absolute;top:3px;right:3px;width:20px;height:20px;background:#fff;border-radius:50%;"></div></div></div>
+      <div style="display:flex;justify-content:space-between;align-items:center;"><span style="font-size:13px;font-weight:500;">Variação de preços</span><div onclick="toast('Ativo')" style="width:44px;height:26px;background:var(--green);border-radius:20px;position:relative;cursor:pointer;"><div style="position:absolute;top:3px;right:3px;width:20px;height:20px;background:#fff;border-radius:50%;"></div></div></div>
+      <div style="display:flex;justify-content:space-between;align-items:center;"><span style="font-size:13px;font-weight:500;">Tarefas vencendo</span><div onclick="toast('Ativado')" style="width:44px;height:26px;background:var(--border);border-radius:20px;position:relative;cursor:pointer;" id="tog-tasks"><div style="position:absolute;top:3px;left:3px;width:20px;height:20px;background:#fff;border-radius:50%;"></div></div></div>
+      <div style="display:flex;justify-content:space-between;align-items:center;"><span style="font-size:13px;font-weight:500;">Novas avaliações</span><div onclick="toast('Ativo')" style="width:44px;height:26px;background:var(--green);border-radius:20px;position:relative;cursor:pointer;"><div style="position:absolute;top:3px;right:3px;width:20px;height:20px;background:#fff;border-radius:50%;"></div></div></div>
+    </div>
+  </div>
+</div>
+
+</div><!-- /content -->
+
+<!-- BOTTOM NAV -->
+
+<nav>
+  <div class="ni active" id="ni-dashboard" onclick="goTo('dashboard')" ontouchend="goTo('dashboard')"><div class="ni-icon">🏠</div><div class="ni-lbl">Dashboard</div></div>
+  <div class="ni" id="ni-properties" onclick="goTo('properties')" ontouchend="goTo('properties')"><div class="ni-icon">🏢</div><div class="ni-lbl">Imóveis</div></div>
+  <div class="ni" id="ni-comp" onclick="goTo('comp')" ontouchend="goTo('comp')"><div class="ni-icon">📊</div><div class="ni-lbl">Concorrência</div></div>
+  <div class="ni" id="ni-pricing" onclick="goTo('pricing')" ontouchend="goTo('pricing')"><div class="ni-icon">💰</div><div class="ni-lbl">Preços</div></div>
+  <div class="ni" id="ni-ops" onclick="goTo('ops')" ontouchend="goTo('ops')"><div class="ni-icon">✅</div><div class="ni-lbl">Operação</div></div>
+</nav>
+
+<!-- MODAL NOVO IMÓVEL -->
+
+<div class="overlay" id="modal-prop" onclick="if(event.target===this)closeModal()">
+  <div class="modal">
+    <div class="mhandle"></div>
+    <div class="mtitle">Novo Imóvel</div>
+    <div class="ig"><label class="il">Nome</label><input class="inp" id="m-name" type="text" placeholder="ex: Studio Ipanema"/></div>
+    <div class="ig"><label class="il">Bairro / Endereço</label><input class="inp" id="m-addr" type="text" placeholder="ex: Ipanema, Rio de Janeiro"/></div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:9px;">
+      <div class="ig"><label class="il">Quartos</label><input class="inp" id="m-rooms" type="number" placeholder="1"/></div>
+      <div class="ig"><label class="il">Diária (R&#36;)</label><input class="inp" id="m-price" type="number" placeholder="350"/></div>
+    </div>
+    <div class="ig">
+      <label class="il">Plataforma</label>
+      <select class="inp" id="m-plat"><option>Airbnb</option><option>Booking.com</option><option>VRBO</option><option>Direto</option></select>
+    </div>
+    <button class="btn-p" onclick="saveNewProp()">Cadastrar Imóvel</button>
+    <button class="btn-s" onclick="closeModal()">Cancelar</button>
+  </div>
+</div>
+
+<!-- MODAL NOVA TAREFA -->
+
+<div class="overlay" id="modal-task" onclick="if(event.target===this)closeTaskModal()">
+  <div class="modal">
+    <div class="mhandle"></div>
+    <div class="mtitle">Nova Tarefa</div>
+    <div class="ig"><label class="il">Descrição</label><input class="inp" id="t-desc" type="text" placeholder="ex: Limpeza pós check-out"/></div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:9px;">
+      <div class="ig">
+        <label class="il">Tipo</label>
+        <select class="inp" id="t-type"><option value="cl">Limpeza</option><option value="ch">Check-in</option><option value="mt">Manutenção</option></select>
+      </div>
+      <div class="ig"><label class="il">Data</label><input class="inp" id="t-date" type="date"/></div>
+    </div>
+    <button class="btn-p" onclick="saveTask()">Adicionar</button>
+    <button class="btn-s" onclick="closeTaskModal()">Cancelar</button>
+  </div>
+</div>
+
+<div class="toast" id="toast-el"></div>
+
+<script>
+// ── NAVIGATION ──
+var _lastTouch = 0;
+function goTo(id) {
+  var now = Date.now();
+  if(now - _lastTouch < 300) return;
+  _lastTouch = now;
+  document.querySelectorAll('.scr').forEach(function(s){s.classList.remove('active');});
+  document.querySelectorAll('.ni').forEach(function(n){n.classList.remove('active');});
+  var scr = document.getElementById('scr-'+id);
+  if(scr) scr.classList.add('active');
+  var ni = document.getElementById('ni-'+id);
+  if(ni) ni.classList.add('active');
+  var c = document.getElementById('content');
+  if(c) c.scrollTop = 0;
+}
+
+// ── TOAST ──
+function toast(msg) {
+  var t = document.getElementById('toast-el');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(function(){t.classList.remove('show');}, 2400);
+}
+
+// ── COMPETITION PROP SWITCH ──
+function switchProp(el, prop) {
+  document.querySelectorAll('.prop-sel .tab').forEach(function(t){t.classList.remove('active');});
+  el.classList.add('active');
+  document.getElementById('comp-A').style.display = prop==='A' ? 'block' : 'none';
+  document.getElementById('comp-B').style.display = prop==='B' ? 'block' : 'none';
+}
+
+// ── PRICING SWITCH ──
+var _priceProps = {
+  A: { title:'💡 AllStar Azul · Laranjeiras', min:'R$230 mín', max:'R$490 máx',
+        tabs: [['Normal',370,52],['Feriado',520,65],['Réveillon',900,92],['Carnaval',850,88],['Rock in Rio',680,76],['Baixa',280,38]] },
+  B: { title:'💡 Studio Copacabana · B. Peixoto', min:'R$190 mín', max:'R$480 máx',
+        tabs: [['Normal',340,55],['Feriado',480,67],['Réveillon',850,90],['Carnaval',800,87],['Rock in Rio',620,75],['Baixa',240,36]] }
+};
+var _curPriceProp = 'A';
+
+function switchPrice(el, prop) {
+  _curPriceProp = prop;
+  document.querySelectorAll('.prop-sel .tab').forEach(function(t){t.classList.remove('active');});
+  el.classList.add('active');
+  var pd = _priceProps[prop];
+  document.getElementById('price-prop-title').textContent = pd.title;
+  document.getElementById('price-min').innerHTML = pd.min.replace('R$','R&#36;');
+  document.getElementById('price-max').innerHTML = pd.max.replace('R$','R&#36;');
+  document.getElementById('price-factors-A').style.display = prop==='A' ? 'block' : 'none';
+  document.getElementById('price-factors-B').style.display = prop==='B' ? 'block' : 'none';
+  // Reset tabs
+  var tabs = document.getElementById('price-tabs');
+  tabs.innerHTML = '';
+  pd.tabs.forEach(function(t, i) {
+    var btn = document.createElement('button');
+    btn.className = 'tab' + (i===0?' active':'');
+    btn.textContent = t[0];
+    btn.onclick = (function(price,pct){ return function(){ setPrice(this,price,pct); }; })(t[1],t[2]);
+    tabs.appendChild(btn);
+  });
+  setPrice(null, pd.tabs[0][1], pd.tabs[0][2]);
+}
+
+function setPrice(el, price, pct) {
+  if(el) {
+    document.querySelectorAll('#price-tabs .tab').forEach(function(t){t.classList.remove('active');});
+    el.classList.add('active');
+  }
+  document.getElementById('price-big').innerHTML = 'R&#36; '+price;
+  document.getElementById('price-meter').style.width = pct+'%';
+  document.getElementById('price-dot').style.left = pct+'%';
+}
+
+// ── OPS TABS ──
+function switchOps(tab, el) {
+  document.querySelectorAll('#scr-ops .tab').forEach(function(t){t.classList.remove('active');});
+  el.classList.add('active');
+  ['tasks','calendar','finance','reports'].forEach(function(t) {
+    var el2 = document.getElementById('ops-'+t);
+    if(el2) el2.style.display = t===tab ? 'block' : 'none';
+  });
+}
+
+// ── TASKS ──
+function toggleTask(el) {
+  el.classList.toggle('done');
+  el.textContent = el.classList.contains('done') ? '✓' : '';
+  var tt = el.parentElement.querySelector('.tt');
+  tt.classList.toggle('done');
+  if(el.classList.contains('done')) toast('Tarefa concluída ✓');
+}
+function addTask() { document.getElementById('modal-task').classList.add('open'); }
+function closeTaskModal() { document.getElementById('modal-task').classList.remove('open'); }
+function saveTask() {
+  var desc = document.getElementById('t-desc').value.trim();
+  if(!desc) { toast('Descreva a tarefa'); return; }
+  var type = document.getElementById('t-type').value;
+  var labels = {cl:'Limpeza',ch:'Check-in',mt:'Manutenção'};
+  var list = document.getElementById('task-list');
+  var div = document.createElement('div');
+  div.className = 'ti';
+  div.innerHTML = '<div class="tc" onclick="toggleTask(this)"></div><div class="tt">'+desc+'</div><div class="ttag '+type+'">'+labels[type]+'</div>';
+  list.appendChild(div);
+  closeTaskModal();
+  document.getElementById('t-desc').value = '';
+  toast('Tarefa adicionada ✓');
+}
+
+// ── PROPERTIES ──
+function openModal() {
+  if(document.querySelectorAll('#prop-list .prop-card').length >= 12) { toast('Limite de 12 imóveis'); return; }
+  document.getElementById('modal-prop').classList.add('open');
+}
+function closeModal() { document.getElementById('modal-prop').classList.remove('open'); }
+function saveNewProp() {
+  var name = document.getElementById('m-name').value.trim();
+  var addr = document.getElementById('m-addr').value.trim();
+  var rooms = document.getElementById('m-rooms').value || '1';
+  var price = document.getElementById('m-price').value || '350';
+  var plat = document.getElementById('m-plat').value;
+  if(!name||!addr) { toast('Preencha nome e bairro'); return; }
+  var emojis = ['🌟','🏝️','🌺','🏙️','🎯','🌴'];
+  var idx = document.querySelectorAll('#prop-list .prop-card').length;
+  var card = document.createElement('div');
+  card.className = 'prop-card';
+  card.innerHTML = '<div class="ph"><div class="pav">'+emojis[idx%emojis.length]+'</div><div style="flex:1;min-width:0;"><div class="pname">'+name+'</div><div class="paddr">'+addr+'</div></div><span class="pbadge" style="background:rgba(232,185,106,.15);color:#966b1a;border-color:rgba(232,185,106,.35);">Pendente</span></div><div class="pstats"><div class="ps"><div class="psv">R$'+price+'</div><div class="psl">Diária</div></div><div class="ps"><div class="psv">—</div><div class="psl">Ocupação</div></div><div class="ps"><div class="psv">—</div><div class="psl">Nota</div></div></div><div class="ptags"><span class="tag tg">'+rooms+'q</span><span class="tag tgreen">'+plat+'</span></div>';
+  document.getElementById('prop-list').appendChild(card);
+  var total = document.querySelectorAll('#prop-list .prop-card').length;
+  document.getElementById('prop-count').textContent = total+' de 12 imóveis cadastrados';
+  closeModal();
+  ['m-name','m-addr','m-rooms','m-price'].forEach(function(id){document.getElementById(id).value='';});
+  toast('✦ Imóvel cadastrado!');
+}
+
+// ── AI ASSISTANT ──
+async function sendAI() {
+  var inp = document.getElementById('ai-in');
+  var msgs = document.getElementById('ai-msgs');
+  var text = inp.value.trim();
+  if(!text) return;
+  inp.value = '';
+  var uDiv = document.createElement('div');
+  uDiv.className = 'ai-user';
+  uDiv.textContent = text;
+  msgs.appendChild(uDiv);
+  var bDiv = document.createElement('div');
+  bDiv.className = 'ai-bot';
+  bDiv.textContent = '✦ Pensando…';
+  msgs.appendChild(bDiv);
+  msgs.scrollTop = msgs.scrollHeight;
+  try {
+    var res = await fetch('https://api.anthropic.com/v1/messages', {
+      method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({
+        model:'claude-sonnet-4-20250514', max_tokens:1000,
+        system:'Você é consultor especializado em aluguel de temporada no Rio de Janeiro para a empresa alvaro&araripe. Eles têm dois imóveis: AllStar Azul (2 quartos, 4 hóspedes, Laranjeiras, esquina Pinheiro Machado com Rua Laranjeiras, nota 5.0, 32 reviews, diária R$370, ocupação 85%, ambientes refrigerados, equipamentos novos) e Studio Copacabana (studio, 3 hóspedes, cama queen + sofá-cama, Rua Francisco Sá, Bairro Peixoto, decoração primorosa, ainda não publicado). Responda em máximo 3 frases, em português, com conselhos práticos e específicos.',
+        messages:[{role:'user',content:text}]
+      })
+    });
+    var data = await res.json();
+    bDiv.textContent = data.content?.map(function(b){return b.text||''}).join('') || 'Erro na resposta.';
+  } catch(e) {
+    bDiv.textContent = '💡 Laranjeiras: suba para R$400 em alta temporada. Copacabana: comece com R$300 para acumular reviews rapidamente.';
+  }
+  msgs.scrollTop = msgs.scrollHeight;
+}
+</script>
+
+</body>
+</html>
